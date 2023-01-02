@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a student in computer engineering
 
-* 🌍  I'm based in Adana/TURKEY
+* 🌍  I'm based in İstanbul/TURKEY
 
 ### Skills
 
